@@ -1,6 +1,6 @@
-let Regiao = "ap";					//eu na ap(jp) kr
-let Username = "nanasia Twitch";	//名前
-let Tagline = "774A";				//タグライン
+let Regiao = "jp";					//eu na ap(jp) kr
+let Username = "おかく";	//名前
+let Tagline = "1013";				//タグライン
 //上3行を自分のアカウントに合わせて変更する
 //アカウント情報を変更したらこちらも変更してください
 
